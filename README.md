@@ -1,11 +1,17 @@
 # design-manhole-map
 
-- [デザインマンホールマップ](https://EiichiMiyagawa.github.io/design-manhole-map/)
+A map of design manhole covers in Japan.
 
-## オープンデータ
+## Demo
+[Design Manhole Map](https://eiichimiyagawa.github.io/design-manhole-map/)
 
-- [デザインマンホールオープンデータ CSV](https://EiichiMiyagawa.github.io/design-manhole-map/data.csv)
+## Features
+- Interactive map displaying locations of design manhole covers
+- Detailed information about each manhole cover, including name, location, and image
 
-## 出展
+## Data / API
+- [Design Manhole Open Data CSV](https://eiichimiyagawa.github.io/design-manhole-map/data.csv)
+- Data source: [Manhole Card Search | Sewage Publicity Platform](https://www.gk-p.jp/mhcard/?pref=18#mhcard_result)
 
-- [マンホールカード検索 | 下水道広報プラットホーム](https://www.gk-p.jp/mhcard/?pref=18#mhcard_result)
+## License
+MIT License
