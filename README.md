@@ -1,5 +1,7 @@
 # design-manhole-map
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A map of design manhole covers in Japan.
 
 ## Demo
