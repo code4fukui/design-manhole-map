@@ -16,4 +16,4 @@ A map of design manhole covers in Japan.
 - Data source: [Manhole Card Search | Sewage Publicity Platform](https://www.gk-p.jp/mhcard/?pref=18#mhcard_result)
 
 ## License
-MIT License
+MIT License — see [LICENSE](LICENSE).
